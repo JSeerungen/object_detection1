@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bi (41).jpg</filename>
+	<path>C:\Users\User\Desktop\Training\2\models\research\object_detection\images\bi (41).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Biryani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>20</ymin>
+			<xmax>1278</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

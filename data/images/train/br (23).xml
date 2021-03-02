@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>br (23).jpg</filename>
+	<path>C:\Users\User\Desktop\Training\2\models\research\object_detection\images\br (23).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1978</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>1207</ymin>
+			<xmax>1952</xmax>
+			<ymax>2410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>500</ymin>
+			<xmax>1539</xmax>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+</annotation>

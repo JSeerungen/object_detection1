@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>o (9).jpg</filename>
+	<path>C:\Users\User\Desktop\Training\2\models\research\object_detection\images\o (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4368</width>
+		<height>2450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>1225</ymin>
+			<xmax>2792</xmax>
+			<ymax>2394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2492</xmin>
+			<ymin>356</ymin>
+			<xmax>3799</xmax>
+			<ymax>1733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymin>40</ymin>
+			<xmax>2607</xmax>
+			<ymax>1248</ymax>
+		</bndbox>
+	</object>
+</annotation>

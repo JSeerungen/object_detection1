@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fa (1).jpg</filename>
+	<path>C:\Users\User\Desktop\Training\2\models\research\object_detection\images\fa (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2821</width>
+		<height>2116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Farata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>43</ymin>
+			<xmax>2762</xmax>
+			<ymax>2024</ymax>
+		</bndbox>
+	</object>
+</annotation>
